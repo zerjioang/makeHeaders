@@ -1,6 +1,9 @@
 # makeHeaders
 
 A very basic C/C++ header file generator from code and viceversa. The current version support bidirectional conversion of C and C++ files
+
+
+![alt tag](/screenshot.png?raw=true "MakeHeaders 1.2")
 ## Conversion features
 - Generate .h from .c
 - Generate .h from .cpp
